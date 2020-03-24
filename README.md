@@ -25,7 +25,6 @@ The code is taken from [Github](https://github.com/miscco/NM_TC) and more detail
 [Masoli et. al. 2015, Action potential processing in a detailed Purkinje cell model reveals a critical role for axonal compartmentalization](
 https://www.frontiersin.org/articles/10.3389/fncel.2015.00047/full).
 The authors have elaborated a multicompartmental model incorporating available knowledge on localization and gating of PC (Purkinje cell) ionic channels. This model incorporate numerous ionic mechanisms involved (various Na, Ca, K channel types), since recent experiments showed that  Na-dependent processing plays a primary role in effective regulation of spike generation and transmission to deep cerebellar nuclei (DCN).
-
 <br />
 The code is taken from [ModelDB](https://senselab.med.yale.edu/ModelDB/ShowModel?model=229585#tabs-1)
 
@@ -33,6 +32,5 @@ The code is taken from [ModelDB](https://senselab.med.yale.edu/ModelDB/ShowModel
 **Yang2016_disinbitoryCircuit**
 Model by [Yang 2016, A dendritic disinhibitory circuit mechanism for pathway-specific gating](https://www.nature.com/articles/ncomms12815?spm=smwp.content.content.1.1531094400036hOtrcXw).
 The authors propose a mechanism for flexible routing of information flow in a complex brain network (pathway-specific gating) with a dendritic disinhibitory circuit which can instantiate pathway-specific gating.
-
 <br />
 The code is taken from [Github](https://github.com/gyyang/DisinhibitoryCircuit2016) and more details could be found at [ModelDB](https://senselab.med.yale.edu/ModelDB/ShowModel?model=226474#tabs-1)
