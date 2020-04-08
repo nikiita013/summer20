@@ -1,12 +1,5 @@
 # summer20
 
-**Anwar2013_stochasticCalcium**
-Model by [Anwer et. al. 2013, Stochastic calcium mechanisms cause dendritic calcium spike variability](https://www.ncbi.nlm.nih.gov/pubmed/24089492).
-This paper proposes a model for stochastic calcium mechanism which they contend to be the main reason for the dentritic calcium spike variability against the notion of only voltage gated channels contributing to variability.
-<br />
-The code is taken from [ModelDB](https://senselab.med.yale.edu/ModelDB/ShowModel?model=150635#tabs-1)
-
-
 **Chartove2020_striatalMicrocircuits**
 Model by [Chartove et. al. 2020, A biophysical model of striatal microcircuits suggests gamma and beta oscillations interleaved at delta/theta frequencies mediate periodicity in motor control](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007300#sec002)
 In this paper, the authors propose a biophysical model of striatal microcircuits that comprehensively describes the generation and interaction of these rhythms, as well as their modulation by dopamine.
