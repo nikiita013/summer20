@@ -33,4 +33,4 @@ The code is taken from [ModelDB](https://senselab.med.yale.edu/ModelDB/ShowModel
 Model by [Yang 2016, A dendritic disinhibitory circuit mechanism for pathway-specific gating](https://www.nature.com/articles/ncomms12815?spm=smwp.content.content.1.1531094400036hOtrcXw).
 The authors propose a mechanism for flexible routing of information flow in a complex brain network (pathway-specific gating) with a dendritic disinhibitory circuit which can instantiate pathway-specific gating.
 <br />
-The code is taken from [Github](https://github.com/gyyang/DisinhibitoryCircuit2016) and more details could be found at [ModelDB](https://senselab.med.yale.edu/ModelDB/ShowModel?model=226474#tabs-1)
+The code is taken from [Github](https://github.com/gyyang/DisinhibitoryCircuit2016) and more details could be found at [ModelDB](https://senselab.med.yale.edu/ModelDB/showModel.cshtml?model=206227#tabs-1)
